@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante,<br>Sin trabajo,<br>Con deseos de aprender y ganar experiencia
+Estudiante
 
 
 # 💻 Tech Stack:
