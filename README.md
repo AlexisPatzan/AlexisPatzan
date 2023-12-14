@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante
+Estudiante con un gran deseo de aprender sobre el mundo web, trabajando en varios proyectos.
 
 
 # 💻 Tech Stack:
